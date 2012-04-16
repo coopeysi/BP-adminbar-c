@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: BuddyPress Adminbar Log In Fix
-Plugin URI: http://simoncoopey.net
+Plugin URI: https://github.com/SimonCoopey/BP-adminbar-c
 Description: Fixes BuddyPress adminbar - log in returns user to same page, not multisite homepage
 Author: Simon Coopey
-Version: 0.2.3
+Version: 0.2.4
 Author URI: http://simoncoopey.net
 */
 
